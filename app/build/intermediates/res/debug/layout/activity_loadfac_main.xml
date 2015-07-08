@@ -1,0 +1,9 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:background="@drawable/load1"
+    tools:context="com.himebaugh.employeedirectory.LoadfacMainActivity">
+
+
+</RelativeLayout>
+<!-- From: file:/D:/project%20progarm/RMUTPreal/app/src/main/res/layout/activity_loadfac_main.xml -->

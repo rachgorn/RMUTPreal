@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+    <employee>
+    	<id>1</id>
+    	<firstName>หทัยรัตน์</firstName>
+    	<lastName>อาจารย์หทัยรัตน์  ปัทมาวิวัฒน์์</lastName>
+    	<title>หัวหน้าสาขาวิชาการโรงแรม</title>
+		<department>สาขาวิชาการโรงแรม</department>
+       	<managerId>0</managerId>
+    	<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการโรงแรม ห้อง1117</city>
+    	<email>-</email>
+    	<picture>a7.jpg</picture>
+    </employee>
+	<employee>
+		<id>2</id>
+		<firstName>สุนันทา</firstName>
+		<lastName>อาจารย์ ดร.สุนันทา ชูตินันท์</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการโรงแรม</title>
+		<department>สาขาวิชาการโรงแรม</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการโรงแรม ห้อง1117</city>
+		<email>-</email>
+		<picture>a1.jpg</picture>
+	</employee>
+	<employee>
+		<id>3</id>
+		<firstName>พัลลภ</firstName>
+		<lastName>อาจารย์พัลลภ หามะลิ</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการโรงแรม</title>
+		<department>สาขาวิชาการโรงแรม</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการโรงแรม ห้อง1117</city>
+		<email>-</email>
+		<picture>a4.jpg</picture>
+	</employee>
+	<employee>
+		<id>4</id>
+		<firstName>กรรณิการ์</firstName>
+		<lastName>อาจารย์กรรณิการ์ บูรพาพิชิตภัย</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการโรงแรม</title>
+		<department>สาขาวิชาการโรงแรม</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการโรงแรม ห้อง1117</city>
+		<email>-</email>
+		<picture>a2.jpg</picture>
+	</employee>
+	<employee>
+		<id>5</id>
+		<firstName>สุภาวดี</firstName>
+		<lastName>อาจารย์สุภาวดี พุ่มไสว</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการโรงแรม</title>
+		<department>สาขาวิชาการโรงแรม</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการโรงแรม ห้อง1117</city>
+		<email>-</email>
+		<picture>a6.jpg</picture>
+	</employee>
+	<employee>
+		<id>6</id>
+		<firstName>ภูมิพัฒน์</firstName>
+		<lastName>อาจารย์ภูมิพัฒน์ ทองคำ</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการโรงแรม</title>
+		<department>สาขาวิชาการโรงแรม</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการโรงแรม ห้อง1117</city>
+		<email>-</email>
+		<picture>a5.jpg</picture>
+	</employee>
+	<employee>
+		<id>7</id>
+		<firstName>นชวัล</firstName>
+		<lastName>อาจารย์นชวัล ต้นทับทิมทอง</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการโรงแรม</title>
+		<department>สาขาวิชาการโรงแรม</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการโรงแรม ห้อง1117</city>
+		<email>-</email>
+		<picture>a3.jpg</picture>
+	</employee>
+	<employee>
+		<id>8</id>
+		<firstName>ใบเฟิร์น</firstName>
+		<lastName>อาจารย์ใบเฟิร์น  วงษ์บัวงาม</lastName>
+		<title>หัวหน้าสาขาวิชาการท่องเที่ยว</title>
+		<department>สาขาวิชาการท่องเที่ยว</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการท่องเที่ยว ห้อง1117</city>
+		<email>-</email>
+		<picture>b1.jpg</picture>
+	</employee>
+	<employee>
+		<id>9</id>
+		<firstName>วิบูลย์</firstName>
+		<lastName>อาจารย์วิบูลย์ หวังรวยนาม</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการท่องเที่ยว</title>
+		<department>สาขาวิชาการท่องเที่ยว</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการท่องเที่ยว ห้อง1117</city>
+		<email>-</email>
+		<picture>b7.jpg</picture>
+	</employee>
+	<employee>
+		<id>10</id>
+		<firstName>พรรุ่งทิพย์</firstName>
+		<lastName>อาจารย์พรรุ่งทิพย์ กิติศรีปัญญา</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการท่องเที่ยว</title>
+		<department>สาขาวิชาการท่องเที่ยว</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการท่องเที่ยว ห้อง1117</city>
+		<email>-</email>
+		<picture>b6.jpg</picture>
+	</employee>
+	<employee>
+		<id>11</id>
+		<firstName>จักรชัย</firstName>
+		<lastName>อาจารย์จักรชัย ยิ้มงาม</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการท่องเที่ยว</title>
+		<department>สาขาวิชาการท่องเที่ยว</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการท่องเที่ยว ห้อง1117</city>
+		<email>-</email>
+		<picture>b2.jpg</picture>
+	</employee>
+	<employee>
+		<id>12</id>
+		<firstName>ชัยวุฒิ</firstName>
+		<lastName>อาจารย์ชัยวุฒิ ชัยฤกษ์</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการท่องเที่ยว</title>
+		<department>สาขาวิชาการท่องเที่ยว</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการท่องเที่ยว ห้อง1117</city>
+		<email>-</email>
+		<picture>b3.jpg</picture>
+	</employee>
+	<employee>
+		<id>13</id>
+		<firstName>ปภาดา</firstName>
+		<lastName>อาจารย์ปภาดา  สืบพลาย</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการท่องเที่ยว</title>
+		<department>สาขาวิชาการท่องเที่ยว</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการท่องเที่ยว ห้อง1117</city>
+		<email>-</email>
+		<picture>b5.jpg</picture>
+	</employee>
+	<employee>
+		<id>14</id>
+		<firstName>ศิริรัตน์</firstName>
+		<lastName>อาจารย์ศิริรัตน์  ขานทอง</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการท่องเที่ยว</title>
+		<department>สาขาวิชาการท่องเที่ยว</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการท่องเที่ยว ห้อง1117</city>
+		<email>-</email>
+		<picture>b8.jpg</picture>
+	</employee>
+	<employee>
+		<id>15</id>
+		<firstName>นิตินันท์</firstName>
+		<lastName>อาจารย์นิตินันท์ ศรีสุวรรณ</lastName>
+		<title>อาจารย์ประจำสาขาวิชาการท่องเที่ยว</title>
+		<department>สาขาวิชาการท่องเที่ยว</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ประจำอยู่ห้องสาขาวิชาการท่องเที่ยว ห้อง1117</city>
+		<email>-</email>
+		<picture>b4.jpg</picture>
+	</employee>
+	<employee>
+		<id>16</id>
+		<firstName>วิไลลักษณ์</firstName>
+		<lastName>อาจารย์วิไลลักษณ์ ตางาม</lastName>
+		<title>หัวหน้าสาขาวิชาภาษาไทยประยุกต์</title>
+		<department>สาขาวิชาภาษาไทยประยุกต์</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาภาษาไทยประยุกต์ ห้อง1201</city>
+		<email>-</email>
+		<picture>c6.jpg</picture>
+	</employee>
+	<employee>
+		<id>17</id>
+		<firstName>ยุทธภูมิ</firstName>
+		<lastName>ผู้ช่วยศาสตราจารย์ยุทธภูมิ สุวรรณเวช</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาไทยประยุกต์</title>
+		<department>สาขาวิชาภาษาไทยประยุกต์</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาภาษาไทยประยุกต์ ห้อง1201</city>
+		<email>-</email>
+		<picture>c1.jpg</picture>
+	</employee>
+	<employee>
+		<id>18</id>
+		<firstName>อำนาจ</firstName>
+		<lastName>ผู้ช่วยศาสตราจารย์อำนาจ เอี่ยมสำอางค์</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาไทยประยุกต์</title>
+		<department>สาขาวิชาภาษาไทยประยุกต์</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาภาษาไทยประยุกต์ ห้อง1201</city>
+		<email>-</email>
+		<picture>c2.jpg</picture>
+	</employee>
+	<employee>
+		<id>19</id>
+		<firstName>อุบลศรี</firstName>
+		<lastName>ผู้ช่วยศาสตราจารย์อุบลศรี อุบลสวัสดิ์</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาไทยประยุกต์</title>
+		<department>สาขาวิชาภาษาไทยประยุกต์</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาภาษาไทยประยุกต์ ห้อง1201</city>
+		<email>-</email>
+		<picture>c3.jpg</picture>
+	</employee>
+	<employee>
+		<id>20</id>
+		<firstName>พรกนก</firstName>
+		<lastName>อาจารย์พรกนก ศรีงาม</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาไทยประยุกต์</title>
+		<department>สาขาวิชาภาษาไทยประยุกต์</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาภาษาไทยประยุกต์ ห้อง1201</city>
+		<email>-</email>
+		<picture>c5.jpg</picture>
+	</employee>
+	<employee>
+		<id>21</id>
+		<firstName>เติ้ง Mr. Deng</firstName>
+		<lastName>อาจารย์เติ้ง เหวยหยุ่น</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาไทยประยุกต์</title>
+		<department>สาขาวิชาภาษาไทยประยุกต์</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาภาษาไทยประยุกต์ห้อง1201</city>
+		<email>-</email>
+		<picture>c4.jpg</picture>
+	</employee>
+	<employee>
+		<id>22</id>
+		<firstName>ภาวิณี</firstName>
+		<lastName>ผู้ช่วยศาสตราจารย์ภาวิณี อุ่นวัฒนา</lastName>
+		<title>หัวหน้าสาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</title>
+		<department>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาอังกฤษเพื่อการสื่อสารสากลห้อง1212</city>
+		<email>-</email>
+		<picture>d2.jpg</picture>
+	</employee>
+	<employee>
+		<id>23</id>
+		<firstName>วัชระ</firstName>
+		<lastName>ผู้ช่วยศาสตราจารย์ ว่าที่ร้อยตรีวัชระ โพธิสรณ์</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</title>
+		<department>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาอังกฤษเพื่อการสื่อสารสากลห้อง1212</city>
+		<email>-</email>
+		<picture>d1.jpg</picture>
+	</employee>
+	<employee>
+		<id>24</id>
+		<firstName>สุวรรณา</firstName>
+		<lastName>อาจารย์ ดร.สุวรรณา กล่อมจิตร์</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</title>
+		<department>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาอังกฤษเพื่อการสื่อสารสากลห้อง1212</city>
+		<email>-</email>
+		<picture>d2.jpg</picture>
+	</employee>
+	<employee>
+		<id>25</id>
+		<firstName>อรุณี</firstName>
+		<lastName>อาจารย์ ดร.อรุณี อรุณเรือง</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</title>
+		<department>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาอังกฤษเพื่อการสื่อสารสากลห้อง1212</city>
+		<email>-</email>
+		<picture>d4.jpg</picture>
+	</employee>
+	<employee>
+		<id>26</id>
+		<firstName>สิริพร</firstName>
+		<lastName>อาจารย์สิริพร ป้องกงลาด</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</title>
+		<department>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาอังกฤษเพื่อการสื่อสารสากลห้อง1212</city>
+		<email>-</email>
+		<picture>d8.jpg</picture>
+	</employee>
+	<employee>
+		<id>27</id>
+		<firstName>นิสิต</firstName>
+		<lastName>อาจารย์นิสิต คำพิกุล</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</title>
+		<department>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาอังกฤษเพื่อการสื่อสารสากลห้อง1212</city>
+		<email>-</email>
+		<picture>d6.jpg</picture>
+	</employee>
+	<employee>
+		<id>28</id>
+		<firstName>เจนตา</firstName>
+		<lastName>อาจารย์เจนตา แก้วลาย</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</title>
+		<department>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาอังกฤษเพื่อการสื่อสารสากลห้อง1212</city>
+		<email>-</email>
+		<picture>d5.jpg</picture>
+	</employee>
+	<employee>
+		<id>29</id>
+		<firstName>วัชรพงษ์</firstName>
+		<lastName>อาจารย์วัชรพงษ์ สูงปานเขา</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</title>
+		<department>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาอังกฤษเพื่อการสื่อสารสากลห้อง1212</city>
+		<email>-</email>
+		<picture>d7.jpg</picture>
+	</employee>
+	<employee>
+		<id>30</id>
+		<firstName>Miss Imelda อีเมลดา</firstName>
+		<lastName>อาจารย์อีเมลดา แกรนด์ อันเดร</lastName>
+		<title>อาจารย์ประจำสาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</title>
+		<department>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาอังกฤษเพื่อการสื่อสารสากลห้อง1212</city>
+		<email>-</email>
+		<picture>d9.jpg</picture>
+	</employee>
+	<employee>
+		<id>31</id>
+		<firstName>ฉัตรฤดี</firstName>
+		<lastName>อาจารย์ฉัตรฤดี สุบรรณ ณ อยุธยา</lastName>
+		<title>หัวหน้าสาขาวิชาศึกษาทั่วไป</title>
+		<department>สาขาวิชาศึกษาทั่วไป</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องสาขาวิชาศึกษาทั่วไป</city>
+		<email>-</email>
+		<picture>e1.jpg</picture>
+	</employee>
+
+
+	<employee>
+		<id>32</id>
+		<firstName>1101</firstName>
+		<lastName>ห้อง1101</lastName>
+		<title>ห้องพักอาจารย์</title>
+		<department>ความจุ:10คน</department>
+		<managerId>0</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1101.png</picture>
+	</employee>
+	<employee>
+		<id>33</id>
+		<firstName>ห้องการเงิน , ห้องบุคลากร 1102</firstName>
+		<lastName>ห้อง1102</lastName>
+		<title>ห้องการเงิน , ห้องบุคลากร</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3555 ต่อ1033 , 1032</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1102.png</picture>
+	</employee>
+
+	<employee>
+		<id>34</id>
+		<firstName>สำนักงานรองคณบดีฝ่ายวางแผน 1103</firstName>
+		<lastName>ห้อง1103</lastName>
+		<title>สำนักงานรองคณบดีฝ่ายวางแผน</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3555 ต่อ 1956</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1103.png</picture>
+	</employee>
+	<employee>
+		<id>35</id>
+		<firstName>หลักสูตรรัฐประศาสนศาสตรมหาบัณฑิต 1104</firstName>
+		<lastName>ห้อง1104</lastName>
+		<title>หลักสูตรรัฐประศาสนศาสตรมหาบัณฑิต</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3555 ต่อ 1006</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1104.png</picture>
+	</employee>
+	<employee>
+		<id>36</id>
+		<firstName>งานวิจัยและงานบริการวิชาการ , งานประกันคุณภาพการศึกษา 1105</firstName>
+		<lastName>ห้อง1105</lastName>
+		<title>งานวิจัยและงานบริการวิชาการ , งานประกันคุณภาพการศึกษา</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3525 ต่อ 1008</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1105.png</picture>
+	</employee>
+
+	<employee>
+		<id>37</id>
+		<firstName> 1106</firstName>
+		<lastName>ห้อง1106</lastName>
+		<title>-</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1106.png</picture>
+	</employee>
+
+	<employee>
+		<id>38</id>
+		<firstName>สำนักงานรองคณบดีฝ่ายวิชาการและวิจัย 1107</firstName>
+		<lastName>ห้อง1107</lastName>
+		<title>สำนักงานรองคณบดีฝ่ายวิชาการและวิจัย ห้อง1107</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3522 ต่อ 1004</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1107.png</picture>
+	</employee>
+	<employee>
+		<id>39</id>
+		<firstName>ฝ่ายทะเบียน </firstName>
+		<lastName>ห้องทะเบียน</lastName>
+		<title>-</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3522 ต่อ 1004</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>regis.png</picture>
+	</employee>
+
+	<employee>
+		<id>40</id>
+		<firstName>ห้องประชุมอาภากร</firstName>
+		<lastName>ห้องประชุมอาภากร</lastName>
+		<title>ห้องประชุม</title>
+		<department>ความจุ: 200 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>meeting.png</picture>
+	</employee>
+
+	<employee>
+		<id>41</id>
+		<firstName>ประชาสัมพันธ์</firstName>
+		<lastName>ห้องประชาสัมพันธ์</lastName>
+		<title>ห้องประชาสัมพันธ์</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-668-3537 ต่อ 1036</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>infor.png</picture>
+	</employee>
+	<employee>
+		<id>42</id>
+		<firstName>สำนักงานคณบดี</firstName>
+		<lastName>ห้องสำนักงานคณบดี</lastName>
+		<title>ห้องสำนักงานคณบดี</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3521 ต่อ 1002</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>master.png</picture>
+	</employee>
+	<employee>
+		<id>43</id>
+		<firstName>1109</firstName>
+		<lastName>ห้อง1109</lastName>
+		<title>-</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1109.png</picture>
+	</employee>
+	<employee>
+		<id>44</id>
+		<firstName>ศูนส่งเสริมทักษะและการเรียนรู้  1110</firstName>
+		<lastName>ห้องศูนส่งเสริมทักษะและการเรียนรู้ </lastName>
+		<title>พพ. 1110</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1110.png</picture>
+	</employee>
+	<employee>
+		<id>45</id>
+		<firstName>1111</firstName>
+		<lastName>ห้อง1111</lastName>
+		<title>พพ. 1111</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1111.png</picture>
+	</employee>
+	<employee>
+		<id>46</id>
+		<firstName>1112</firstName>
+		<lastName>ห้อง1112</lastName>
+		<title>พพ. 1112</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1112.png</picture>
+	</employee>
+	<employee>
+		<id>47</id>
+		<firstName>1113</firstName>
+		<lastName>ห้อง1113</lastName>
+		<title>พพ. 1113</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1113.png</picture>
+	</employee>
+	<employee>
+		<id>48</id>
+		<firstName>1114</firstName>
+		<lastName>ห้อง1114</lastName>
+		<title>พพ. 1114</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1114.png</picture>
+	</employee>
+	<employee>
+		<id>49</id>
+		<firstName>1115</firstName>
+		<lastName>ห้อง1115</lastName>
+		<title>พพ. 1115</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1115.png</picture>
+	</employee>
+	<employee>
+		<id>50</id>
+		<firstName>1116</firstName>
+		<lastName>ห้อง1116</lastName>
+		<title>พพ. 1116</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>-</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1116.png</picture>
+	</employee>
+	<employee>
+		<id>51</id>
+		<firstName>สาขาวิชาการท่องเที่ยว1117</firstName>
+		<lastName>ห้องสาขาวิชาการท่องเที่ยว1117</lastName>
+		<title> ห้อง 1117</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3528 ต่อ 3351,3349 </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1117.png</picture>
+	</employee>
+
+	<employee>
+		<id>52</id>
+		<firstName>1201</firstName>
+		<lastName>ห้อง1201</lastName>
+		<title> ห้องพักอาจารณ์ 1201</title>
+		<department>ความจุ: - คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3530 ต่อ 1018,1019 </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1201.png</picture>
+	</employee>
+
+	<employee>
+		<id>53</id>
+		<firstName>1202</firstName>
+		<lastName>ห้อง1202</lastName>
+		<title> ห้องเรียนคณิตศาสตร์ 1202</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1202.png</picture>
+	</employee>
+
+
+	<employee>
+		<id>54</id>
+		<firstName>1203</firstName>
+		<lastName>ห้อง1203</lastName>
+		<title> ห้องเรียนคณิตศาสตร์ 1203</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1203.png</picture>
+	</employee>
+
+	<employee>
+		<id>55</id>
+		<firstName>1204</firstName>
+		<lastName>ห้อง1204</lastName>
+		<title> ห้องเรียนมนุษย์ศาสตร์ 1203</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1204.png</picture>
+	</employee>
+
+	<employee>
+		<id>56</id>
+		<firstName>1205</firstName>
+		<lastName>ห้อง1205</lastName>
+		<title> ห้องเรียนมนุษย์ศาสตร์ 1205</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1205.png</picture>
+	</employee>
+	<employee>
+		<id>57</id>
+		<firstName>1207</firstName>
+		<lastName>ห้อง1207</lastName>
+		<title> ห้อ 1207</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1207.png</picture>
+	</employee>
+	<employee>
+		<id>58</id>
+		<firstName>1208</firstName>
+		<lastName>ห้อง1208</lastName>
+		<title> ห้องกลุ่มวิชามนุษย์และสังคมศาสตร์ </title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3531 ต่อ 1020, 1021</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1208.png</picture>
+	</employee>
+
+	<employee>
+		<id>59</id>
+		<firstName>สำนักงานฝ่ายกิจการนักศึกษา</firstName>
+		<lastName>ห้องสำนักงานฝ่ายกิจการนักศึกษา</lastName>
+		<title>  - </title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>student.png</picture>
+	</employee>
+
+
+	<employee>
+		<id>60</id>
+		<firstName>1200</firstName>
+		<lastName>ห้อง1200</lastName>
+		<title>ห้องมุขบน 1200</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1200.png</picture>
+	</employee>
+
+	<employee>
+		<id>61</id>
+		<firstName>1209</firstName>
+		<lastName>ห้อง1209</lastName>
+		<title>พพ.1200</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1209.png</picture>
+	</employee>
+
+	<employee>
+		<id>62</id>
+		<firstName>1210</firstName>
+		<lastName>ห้อง1210</lastName>
+		<title> หพ.1210</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1210.png</picture>
+	</employee>
+	<employee>
+		<id>63</id>
+		<firstName>1211</firstName>
+		<lastName>ห้อง1211</lastName>
+		<title>หพ.1211</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1211.png</picture>
+	</employee>
+
+	<employee>
+		<id>64</id>
+		<firstName>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล 1212</firstName>
+		<lastName>ห้อง1212</lastName>
+		<title>สาขาวิชาภาษาอังกฤษเพื่อการสื่อสารสากล ห้อง1212</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3529 ต่อ 1016,1017</officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1212.png</picture>
+	</employee>
+
+	<employee>
+		<id>65</id>
+		<firstName>1213</firstName>
+		<lastName>ห้อง1213 </lastName>
+		<title> พพ.ห้องภาษาไทย 1213</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1213.png</picture>
+	</employee>
+	<employee>
+		<id>66</id>
+		<firstName>1214</firstName>
+		<lastName>ห้อง1214 </lastName>
+		<title> หพ.ห้องภาษาต่างประเทศ1214</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1214.png</picture>
+	</employee>
+
+	<employee>
+		<id>67</id>
+		<firstName>1215</firstName>
+		<lastName>ห้อง1215 </lastName>
+		<title> หพ.ห้องภาษาต่างประเทศ 1215</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>- </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1215.png</picture>
+	</employee>
+
+
+	<employee>
+		<id>68</id>
+		<firstName>1216 ห้องสอนภาษา </firstName>
+		<lastName>ห้อง1216 </lastName>
+		<title>หพ.ห้องภาษาต่างประเทศ (ห้องสอนภาษา) 1216</title>
+		<department>ความจุ: 35 คน</department>
+		<managerId>คณะศิลปศาสตร์</managerId>
+		<officePhone>02-665-3529 ต่อ 1016,1017 </officePhone>
+		<city>ห้องปรับอากาศ</city>
+		<email>-</email>
+		<picture>1216.png</picture>
+	</employee>
+
+
+
+</employees>

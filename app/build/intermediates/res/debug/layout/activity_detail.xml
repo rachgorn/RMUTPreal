@@ -1,0 +1,136 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/blue">
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res/com.himebaugh.employeedirectory"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:gravity="top|left" >
+
+        <ImageView
+            android:id="@+id/activity_detail_picture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/employee_photo"
+            android:minHeight="150dp"
+            android:minWidth="150dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/activity_detail_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/place_holder"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_below="@+id/activity_detail_picture"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/activity_detail_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/place_holder"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_below="@+id/activity_detail_name"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/activity_detail_department"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/place_holder"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_below="@+id/activity_detail_title"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/activity_detail_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/place_holder"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_below="@+id/activity_detail_department"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/activity_detail_city"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/detail_header1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/activity_detail_office_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView5"
+            android:layout_below="@+id/textView5"
+            android:text="@string/place_holder"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:text="@string/detail_header4"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_alignLeft="@+id/activity_detail_office_phone"
+            android:layout_below="@+id/activity_detail_office_phone" />
+
+        <TextView
+            android:id="@+id/activity_detail_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView11"
+            android:layout_below="@+id/textView11"
+            android:text="@string/place_holder"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageButton
+            android:id="@+id/activity_detail_call_office_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/textView5"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/phone" />
+
+        <ImageView
+            android:id="@+id/activity_detail_send_email_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:clickable="true"
+            android:src="@drawable/mail"
+            android:layout_alignTop="@+id/textView11"
+            android:layout_alignLeft="@+id/activity_detail_call_office_button"
+            android:layout_alignStart="@+id/activity_detail_call_office_button"
+            android:layout_alignBottom="@+id/activity_detail_email" />
+
+
+
+        <com.himebaugh.employeedirectory.GifMovieView
+            android:id="@+id/gifMovieView"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="96dp"
+            android:layout_alignParentStart="true"
+            android:onClick="finishActivity"/>
+    </RelativeLayout>
+
+</ScrollView><!-- From: file:/D:/project%20progarm/RMUTPreal/app/src/main/res/layout/activity_detail.xml -->

@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.himebaugh.employeedirectory.PlanMainActivity">
+
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="110dp"
+    android:background="@drawable/planhard"
+    android:id="@+id/imgPlan"/>
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/plantext"
+    android:layout_below="@id/imgPlan"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true" />
+</RelativeLayout>

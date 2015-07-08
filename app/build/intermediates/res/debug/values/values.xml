@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/project%20progarm/RMUTPreal/app/src/main/res/values/listview_teacher.xml -->
+    <eat-comment/>
+    <string-array name="teacher_image_array">
+    <item>@drawable/c1</item>
+    <item>@drawable/c2</item>
+    <item>@drawable/c3</item>
+    <item>@drawable/c4</item>
+    <item>@drawable/c5</item>
+    <item>@drawable/c1</item>
+    </string-array>
+    <string-array name="teacher_string_array">
+        <item>นายรัชกร ทองใ7บศรี</item>
+        <item>นายรัชกร ทองใบศร</item>
+        <item>นายรัชกร 1ทองใบศร</item>
+        <item>นายรัชกร ทองใบศร</item>
+        <item>นายรัชกร ทอ57งใบศร</item>
+        <item>นายรัชกร ทองใบศร</item>
+
+        </string-array>
+    <color name="blue">#32E0FF</color>
+    <color name="yellow">#FFE432</color>
+    <declare-styleable name="CustomTheme"><attr format="reference" name="gifMoviewViewStyle"/></declare-styleable>
+    <declare-styleable name="GifMoviewView"><attr format="reference" name="gif"/><attr format="boolean" name="paused"/></declare-styleable>
+    <!-- From: file:/D:/project%20progarm/RMUTPreal/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="Buttontext">50dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/project%20progarm/RMUTPreal/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="ButtonFac1"/>
+    <string name="ButtonFac2"/>
+    <string name="ButtonFac3"/>
+    <string name="ButtonFac4"/>
+    <string name="ButtonFac5"/>
+    <string name="ButtonFac6"/>
+    <string name="ButtonFac7"/>
+    <string name="ButtonFac8"/>
+    <string name="ButtonFac9"/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">R M U T P     building</string>
+    <string name="detail_header1">Call Office</string>
+    <string name="detail_header2">Call Mobile</string>
+    <string name="detail_header3">SMS</string>
+    <string name="detail_header4">Email</string>
+    <string name="employee_details">Employee Details</string>
+    <string name="employee_photo">Employee Photo</string>
+    <string name="headtext1">หน้าหลัก</string>
+    <string name="headtext2">ประวัติ</string>
+    <string name="headtext3">วิสัยทัศน์</string>
+    <string name="headtext4">สัญลักษณ์</string>
+    <string name="headtext5">การเดินทาง</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="mainText1" translatable="false">หน้าหลัก</string>
+    <string name="mainText2" translatable="false">ประวิติ</string>
+    <string name="mainText3" translatable="false">วิสัยทัศน์</string>
+    <string name="mainText4" translatable="false">สัญลักษณ์</string>
+    <string name="mainText5" translatable="false">การเดินทาง</string>
+    <string name="menu_search">Search Quotes</string>
+    <string name="no_results">No results found for \"%s\"</string>
+    <string name="place_holder">Text will be replaced</string>
+    <string name="search_hint">"Search" </string>
+    <string name="search_instructions">Use the search box in the Action Bar to look up a word</string>
+    <string name="search_settings_description">Where show???</string>
+    <string name="text_history">askdas[fasmkgspagl,sag,asg[asmg[asgm,sa;lgasl;gmnas;gmnaspogasmgmasgasgasgasg</string>
+    <string name="title_activity_loadfac_main">LoadfacMainActivity</string>
+    <string name="title_activity_main_tab">MainTabActivity</string>
+    <string name="title_activity_plan_main">อาคารศิลปศาสตร์ อาคาร1</string>
+    <string name="title_activity_sotherroom">SOtherroomActivity</string>
+    <string name="title_activity_sroom">SRoomActivity</string>
+    <string name="title_activity_ssecroom">SSecroomActivity</string>
+    <string name="title_activity_steacher">อาจารย์/ห้อง</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <!-- From: file:/D:/project%20progarm/RMUTPreal/app/src/main/res/values/mystyles.xml -->
+    <eat-comment/>
+    <style name="ActionBar.solid.custom" parent="android:Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">#BA68C8</item>
+        <item name="android:titleTextStyle">@style/myTheme.ActionBar.TitleTextStyle</item>
+
+    </style>
+    <style name="ActionBarTab" parent="android:Theme.Light">
+        <item name="android:background">#BA68C8</item>
+
+    </style>
+    <!-- From: file:/D:/project%20progarm/RMUTPreal/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+
+    </style>
+    <style name="AppBaseTheme1" parent="android:Theme.Holo.Light.NoActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/D:/project%20progarm/RMUTPreal/app/src/main/res/values/mystyles.xml -->
+    <eat-comment/>
+    <style name="Widget.GifMoviewView" parent="@android:style/Widget"/>
+    <style name="myTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBar.solid.custom</item>
+        <item name="android:actionBarTabBarStyle">@style/ActionBarTab</item>
+
+
+
+
+    </style>
+    <style name="myTheme.ActionBar.TitleTextStyle" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">22dp</item>
+
+    </style>
+</resources>

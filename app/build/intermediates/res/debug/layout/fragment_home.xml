@@ -1,0 +1,71 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.himebaugh.employeedirectory.HomeFragment"
+    android:background="#F3E5F3"
+
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/teacher"
+        android:layout_gravity="center"
+        android:id="@+id/sBut1"
+        android:layout_alignTop="@+id/sBut2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/oth"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/sBut4"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/sec"
+        android:layout_gravity="center"
+        android:id="@+id/sBut3"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/room"
+        android:layout_gravity="center"
+        android:id="@+id/sBut2"
+        android:layout_above="@+id/sBut4"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+    <com.himebaugh.employeedirectory.GifMovieView
+        android:id="@+id/gifMovieView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="450dp"
+        android:paddingRight="20dp"
+        android:layout_toEndOf="@+id/sBut1"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/sBut2"
+        android:layout_alignStart="@+id/sBut2" />
+</RelativeLayout>
+
+
+</FrameLayout>
+<!-- From: file:/D:/project%20progarm/RMUTPreal/app/src/main/res/layout/fragment_home.xml -->

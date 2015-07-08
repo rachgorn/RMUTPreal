@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.himebaugh.employeedirectory"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <android:uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <supports-screens>
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"
+        android:xlargeScreens="true"
+    </supports-screens>
+
+    <compatible-screens>
+
+        <!-- small size screens -->
+
+        <screen
+            android:screenDensity="mdpi"
+            android:screenSize="small" />
+        <screen
+            android:screenDensity="480"
+            android:screenSize="small" />
+        <!-- all normal size screens -->
+
+    </compatible-screens>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/myTheme" >
+
+
+        <!-- Detail -->
+        <activity
+            android:name=".DetailActivity"
+            android:label="@string/employee_details"
+            android:theme="@style/AppBaseTheme1"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+
+
+                <data android:mimeType="vnd.android.cursor.item/vnd.himebaugh.search.employees" />
+            </intent-filter>
+        </activity>
+
+        <!-- Searchable -->
+        <activity
+            android:name=".SearchableActivity"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+
+        <!-- Points to searchable activity so the whole app can invoke search. -->
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value="com.himebaugh.employeedirectory.SearchableActivity" />
+
+        <provider
+            android:name=".EmployeeProvider"
+            android:authorities="com.himebaugh.employeedirectory.EmployeeProvider"
+            >
+        </provider>
+
+        <activity android:name=".MainTabActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoadActivity"
+            android:theme="@style/AppBaseTheme1" >
+
+
+        </activity>
+        <activity
+            android:name=".SubActivity"
+            android:label="@string/title_activity_sub"
+            android:theme="@style/AppBaseTheme1" >
+        </activity>
+        <activity
+            android:name=".FactoryActivity"
+            android:theme="@style/AppBaseTheme1" >
+        </activity>
+        <activity
+            android:name=".STeacherActivity"
+            android:label="@string/title_activity_steacher" >
+
+
+        </activity>
+        <activity
+            android:name=".LoadfacMainActivity"
+            android:label="@string/title_activity_loadfac_main"
+            android:theme="@style/AppBaseTheme1" >
+        </activity>
+        <activity
+            android:name=".PlanMainActivity"
+            android:label="@string/title_activity_plan_main"
+            android:theme="@style/AppBaseTheme1" >
+        </activity>
+        <activity
+            android:name=".SRoomActivity"
+            android:label="@string/title_activity_sroom" >
+        </activity>
+        <activity
+            android:name=".SSecroomActivity"
+            android:label="@string/title_activity_ssecroom" >
+        </activity>
+        <activity
+            android:name=".SOtherroomActivity"
+            android:label="@string/title_activity_sotherroom" >
+        </activity>
+    </application>
+
+</manifest>

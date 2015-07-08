@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="teacher_image_array">
+    <item>@drawable/c1</item>
+    <item>@drawable/c2</item>
+    <item>@drawable/c3</item>
+    <item>@drawable/c4</item>
+    <item>@drawable/c5</item>
+    <item>@drawable/c1</item>
+    </string-array>
+
+    <string-array name="teacher_string_array">
+        <item>นายรัชกร ทองใ7บศรี</item>
+        <item>นายรัชกร ทองใบศร</item>
+        <item>นายรัชกร 1ทองใบศร</item>
+        <item>นายรัชกร ทองใบศร</item>
+        <item>นายรัชกร ทอ57งใบศร</item>
+        <item>นายรัชกร ทองใบศร</item>
+
+        </string-array>
+
+    <color name="blue">#32E0FF</color>
+    <color name="yellow">#FFE432</color>
+
+
+
+
+
+</resources>
