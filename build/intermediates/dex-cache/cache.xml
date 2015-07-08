@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\project progarm\RMUTPreal\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\project progarm\RMUTPreal\app\build\intermediates\pre-dexed\debug\classes-11b26ae928835c934a555d594f392b0c48170177.jar" />
+    </item>
+    <item
+        jar="D:\project progarm\RMUTPreal\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\project progarm\RMUTPreal\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-11bc41cd3fc5b433c7307112a1082dba149da0a5.jar" />
+    </item>
+    <item
+        jar="D:\project progarm\RMUTPreal\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="D:\project progarm\RMUTPreal\app\build\intermediates\pre-dexed\debug\classes-b10b8b46d776d248c813bb70ade4d7ce25b63b22.jar" />
+    </item>
+    <item
+        jar="C:\Users\KomKrit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\project progarm\RMUTPreal\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-f8480ff05a4c6f06bb5a0362574258f5ef7f8060.jar" />
+    </item>
+    <item
+        jar="D:\project progarm\RMUTPreal\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="D:\project progarm\RMUTPreal\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8f4f1bca9c41e099014bbffe70b92d6297ce7d8d.jar" />
+    </item>
+
+</items>
